@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b1b3c23-6993-43d3-9371-8641ac263c52" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YL0D7z5etgWiff7piy9Dy4AZkM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/jasper-reports" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="AppInitializer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lk.ijse.dep.pos.AppInitializer" />
+      <module name="pos-system-jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lk.ijse.dep.pos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppInitializer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b1b3c23-6993-43d3-9371-8641ac263c52" name="Default Changelist" comment="" />
+      <created>1582706444538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582706444538</updated>
+      <workItem from="1582706446408" duration="565000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="602" y="294" width="744" height="510" key="FileChooserDialogImpl" timestamp="1582707005624">
+      <screen x="48" y="28" width="1872" height="1052" />
+    </state>
+    <state x="602" y="294" width="744" height="510" key="FileChooserDialogImpl/48.28.1872.1052@48.28.1872.1052" timestamp="1582707005624" />
+    <state x="467" y="131" width="1024" height="843" key="SettingsEditor" timestamp="1582707009874">
+      <screen x="48" y="28" width="1872" height="1052" />
+    </state>
+    <state x="467" y="131" width="1024" height="843" key="SettingsEditor/48.28.1872.1052@48.28.1872.1052" timestamp="1582707009874" />
+    <state x="645" y="444" width="658" height="214" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582706704576">
+      <screen x="48" y="28" width="1872" height="1052" />
+    </state>
+    <state x="645" y="444" width="658" height="214" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/48.28.1872.1052@48.28.1872.1052" timestamp="1582706704576" />
+  </component>
+</project>
